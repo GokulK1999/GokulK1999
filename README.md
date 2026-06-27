@@ -43,7 +43,10 @@ AI, LLMs, and building products that create real impact.
 
 ## 📌 Featured Projects
 
-🔗 [Metaverse Trail 2.0](https://github.com/GokulK1999) — MERN Stack | Final Year Project
+🔗 [Singapore Economic Pulse](https://github.com/GokulK1999/singapore-economic-pulse) - React 18 + TypeScript + Highcharts
+> Interactive macroeconomic dashboard visualising Singapore's key economic indicators 2018–2024. Features dark/light mode, animated KPIs, global year filter, COVID impact annotation, and PNG export. | [Live Demo](https://singapore-economic-pulse.vercel.app/)
+
+🔗 [Metaverse Trail 2.0](https://github.com/GokulK1999) - MERN Stack | Final Year Project
 > Navigating Through Sarawak — React UI, D3.js dashboards, multi-role auth, Agile/Scrum
 
 🔗 [EcoGear Marketplace](https://github.com/GokulK1999/ecogear-marketplace) — Vue 3 + PHP
