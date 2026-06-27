@@ -1,6 +1,6 @@
 # Hi, I'm Gokul Kalla 👋
 
-🎓 Final-semester Computer Science student @ Swinburne University of Technology, Sarawak
+🎓 Computer Science Graduate @ Swinburne University of Technology, Sarawak (2026)
 📍 Singapore | Malaysia | Open to Remote
 💼 Full Stack Developer | Scrum Master | AI Enthusiast
 🏆 2× Dean's List | CGPA 3.75
@@ -27,6 +27,7 @@ AI, LLMs, and building products that create real impact.
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Highcharts](https://img.shields.io/badge/-Highcharts-1EB0F4?style=flat&logo=highcharts&logoColor=white)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
